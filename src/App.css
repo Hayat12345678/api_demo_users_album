@@ -1,0 +1,63 @@
+body {
+  background-color: rgb(226, 225, 225);
+
+
+
+}
+
+.user-list {
+  display: inline-block;
+  color: rgb(124, 43, 43);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 1.5rem;
+  text-align: left;
+  cursor: pointer;
+  text-decoration: underline;
+  width: 400px;
+  height: auto;
+  border: 1px brown solid;
+  margin-left: 40px;
+  background-color: rgb(250, 247, 210);
+}
+
+.user-list :hover {
+  font-size: 1.6rem;
+  color: blue;
+  
+}
+
+.user-album {
+  display: inline-block;
+  color: rgb(124, 43, 43);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 1.5rem;
+  text-align: left;
+  cursor: pointer;
+  text-decoration: underline;
+  width: 400px;
+  height: auto;
+  border: 1px brown solid;
+  margin-left: 40px;
+  background-color: rgb(224, 249, 250);
+
+
+
+}
+
+.user-album :hover {
+  font-size: 1.6rem;
+  color: blue;
+}
+
+h1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 2rem;
+  color: blue;
+  margin-left: 50px;
+}
+h2{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 1.5rem;
+  color: blue;
+  margin-left: 50px;
+}
